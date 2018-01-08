@@ -14,5 +14,5 @@ foreach ($User in $Users)
     $SAM = $User.'SAM'            
     $UPN = $User.'Firstname' + "." + $User.'Lastname' + "@" + $User.'Maildomain'               
     $Password = $User.'Password'            
-    New-ADUser -Name "$Displayname" -DisplayName "$Displayname" -SamAccountName $SAM -UserPrincipalName $UPN -GivenName "$UserFirstname" -Surname "$UserLastname" -AccountPassword (ConvertTo-SecureString $Password -AsPlainText -Force) -Enabled $true -ChangePasswordAtLogon $false            
+    New-ADUser -Name "$Displayname" -DisplayName "$Displayname" -SamAccountName $SAM -UserPrincipalName $UPN -GivenName "$UserFirstname" -Surname "$UserLastname" -AccountPassword (ConvertTo-SecureString $Password -AsPlainText -Force) -Enabled $true      
 }
