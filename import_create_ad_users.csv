@@ -1,0 +1,72 @@
+Implement;GivenName;LastName;Initials;OfficeName;Description;Mail;StreetAddress;City;PostalCode;State;Country;Company;Department;EmployeeID;ExtensionAttribute1;Title;Phone;ProfilePath;ScriptPath;HomeDirectory;HomeDrive;Password;PasswordNeverExpires;Enabled;TargetOU
+Yes;Jeroen;Moos;JMO;Offices;;;;Temse;9140;;Belgium;Moos;Directie;;;;;;;;;sdf12345;False;True;OU=RaadVanBestuur, OU=Marketing
+Yes;Piet;Huysenbrouwer;PHU;Offices;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;sdf12345;False;True;OU=RaadVanBestuur,OU=Onderzoek
+Yes;Angela;Moos;AMO;Offices;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12345;False;True;OU=RaadVanBestuur,OU=Productie
+Yes;Hop;Karlsberg;HKA;Offices;;;;Temse;9140;;Belgium;Moos;Logistiek;;;;;;;;;sdf12345;False;True;OU=RaadVanBestuur,OU=Logistiek
+Yes;Productiemedewerker 1;;W1;Brouwerij;Teamleader dagshift;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12345;False;True;OU=Productie
+Yes;Productiemedewerker 2;;W2;Brouwerij;Teamleader nachtshift;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12346;False;True;OU=Productie
+Yes;Productiemedewerker 3;;W3;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12347;False;True;OU=Productie
+Yes;Productiemedewerker 4;;W4;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12348;False;True;OU=Productie
+Yes;Productiemedewerker 5;;W5;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12349;False;True;OU=Productie
+Yes;Productiemedewerker 6;;W6;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12350;False;True;OU=Productie
+Yes;Productiemedewerker 7;;W7;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12351;False;True;OU=Productie
+Yes;Productiemedewerker 8;;W8;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12352;False;True;OU=Productie
+Yes;Productiemedewerker 9;;W9;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12353;False;True;OU=Productie
+Yes;Productiemedewerker 10;;W10;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12354;False;True;OU=Productie
+Yes;Productiemedewerker 11;;W11;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12355;False;True;OU=Productie
+Yes;Productiemedewerker 12;;W12;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12356;False;True;OU=Productie
+Yes;Productiemedewerker 13;;W13;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12357;False;True;OU=Productie
+Yes;Productiemedewerker 14;;W14;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12358;False;True;OU=Productie
+Yes;Productiemedewerker 15;;W15;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12359;False;True;OU=Productie
+Yes;Productiemedewerker 16;;W16;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12360;False;True;OU=Productie
+Yes;Productiemedewerker 17;;W17;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12361;False;True;OU=Productie
+Yes;Productiemedewerker 18;;W18;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12362;False;True;OU=Productie
+Yes;Productiemedewerker 19;;W19;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12363;False;True;OU=Productie
+Yes;Productiemedewerker 20;;W20;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12364;False;True;OU=Productie
+Yes;Productiemedewerker 21;;W21;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12365;False;True;OU=Productie
+Yes;Productiemedewerker 22;;W22;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12366;False;True;OU=Productie
+Yes;Productiemedewerker 23;;W23;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12367;False;True;OU=Productie
+Yes;Productiemedewerker 24;;W24;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12368;False;True;OU=Productie
+Yes;Productiemedewerker 25;;W25;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12369;False;True;OU=Productie
+Yes;Productiemedewerker 26;;W26;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12370;False;True;OU=Productie
+Yes;Productiemedewerker 27;;W27;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12371;False;True;OU=Productie
+Yes;Productiemedewerker 28;;W28;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12372;False;True;OU=Productie
+Yes;Productiemedewerker 29;;W29;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12373;False;True;OU=Productie
+Yes;Productiemedewerker 30;;W30;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12374;False;True;OU=Productie
+Yes;Productiemedewerker 31;;W31;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12375;False;True;OU=Productie
+Yes;Productiemedewerker 32;;W32;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12376;False;True;OU=Productie
+Yes;Productiemedewerker 33;;W33;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12377;False;True;OU=Productie
+Yes;Productiemedewerker 34;;W34;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12378;False;True;OU=Productie
+Yes;Productiemedewerker 35;;W35;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12379;False;True;OU=Productie
+Yes;Productiemedewerker 36;;W36;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12380;False;True;OU=Productie
+Yes;Productiemedewerker 37;;W37;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12381;False;True;OU=Productie
+Yes;Productiemedewerker 38;;W38;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12382;False;True;OU=Productie
+Yes;Productiemedewerker 39;;W39;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12383;False;True;OU=Productie
+Yes;Productiemedewerker 40;;W40;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12384;False;True;OU=Productie
+Yes;Productiemedewerker 41;;W41;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12385;False;True;OU=Productie
+Yes;Productiemedewerker 42;;W42;Brouwerij;;;;Temse;9140;;Belgium;Moos;Productie;;;;;;;;;sdf12386;False;True;OU=Productie
+Yes;Planner 1;;P1;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12387;False;True;OU=Planning
+Yes;Planner 2;;P2;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12388;False;True;OU=Planning
+Yes;Planner 3;;P3;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12389;False;True;OU=Planning
+Yes;Planner 4;;P4;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12390;False;True;OU=Planning
+Yes;Planner 5;;P5;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12391;False;True;OU=Planning
+Yes;Planner 6;;P6;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12392;False;True;OU=Planning
+Yes;Planner 7;;P7;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12393;False;True;OU=Planning
+Yes;Planner 8;;P8;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12394;False;True;OU=Planning
+Yes;Planner 9;;P9;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12395;False;True;OU=Planning
+Yes;Planner 10;;P10;Planning;;;;Temse;9140;;Belgium;Moos;Planning;;;;;;;;;sdf12396;False;True;OU=Planning
+Yes;Marketeer 1;;M1;Offices;;;;Temse;9140;;Belgium;Moos;Marketing;;;;;;;;;sdf12397;False;True;OU=Marketing
+Yes;Marketeer 2;;M2;Offices;;;;Temse;9140;;Belgium;Moos;Marketing;;;;;;;;;sdf12398;False;True;OU=Marketing
+Yes;Marketeer 3;;M3;Offices;;;;Temse;9140;;Belgium;Moos;Marketing;;;;;;;;;sdf12399;False;True;OU=Marketing
+Yes;Marketeer 4;;M4;Offices;;;;Temse;9140;;Belgium;Moos;Marketing;;;;;;;;;sdf12400;False;True;OU=Marketing
+Yes;Marketeer 5;;M5;Offices;;;;Temse;9140;;Belgium;Moos;Marketing;;;;;;;;;sdf12401;False;True;OU=Marketing
+Yes;Secretaresse 1;;S1;Offices;;;;Temse;9140;;Belgium;Moos;;;;;;;;;;;;;
+Yes;Onderzoeker 1;;O1;Brouwerij;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;;;;
+Yes;Onderzoeker 2;;O2;Brouwerij;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;;;;
+Yes;Onderzoeker 3;;O3;Brouwerij;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;;;;
+Yes;Onderzoeker 4;;O4;Brouwerij;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;;;;
+Yes;Onderzoeker 5;;O5;Brouwerij;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;;;;
+Yes;Onderzoeker 6;;O6;Brouwerij;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;;;;
+Yes;Onderzoeker 7;;O7;Brouwerij;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;;;;
+Yes;Onderzoeker 8;;O8;Brouwerij;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;;;;
+Yes;Onderzoeker 9;;O9;Brouwerij;;;;Temse;9140;;Belgium;Moos;Onderzoek;;;;;;;;;;;;
